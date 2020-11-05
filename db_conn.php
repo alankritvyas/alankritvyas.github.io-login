@@ -1,6 +1,6 @@
 <?php
 
-$sname= "localhost";
+$sname= "users";
 $unmae= "root";
 $password = "";
 
